@@ -78,15 +78,15 @@ streamlit run app.py
 ## 🔗 แหล่งข้อมูลอ้างอิง
 
 
-*[Consumer Complaint Database - U.S. Consumer Financial Protection Bureau (CFPB)]
+* [Consumer Complaint Database - U.S. Consumer Financial Protection Bureau (CFPB)]
 https://www.consumerfinance.gov/data-research/consumer-complaints/
-*[Kaggle: Consumer Complaint Database Dataset (by selener)]
+* [Kaggle: Consumer Complaint Database Dataset (by selener)]
 https://www.kaggle.com/datasets/selener/consumer-complaint-database
-*[Googletrans (Python library)]
+* [Googletrans (Python library)]
 https://github.com/ssut/py-googletrans
-*[Streamlit Documentation]
+* [Streamlit Documentation]
 https://docs.streamlit.io/
-*[scikit-learn: Machine Learning in Python]
+* [scikit-learn: Machine Learning in Python]
 https://scikit-learn.org/
 
 
