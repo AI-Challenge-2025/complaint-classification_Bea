@@ -80,17 +80,29 @@ streamlit run app.py
 
 complaint-classification/
 ├── Data/ # เก็บข้อมูล Feedback ที่ผู้ใช้ส่งกลับมา
+
 │ └── feedback.csv # ไฟล์เก็บผลตอบรับถูก/ผิดจากผู้ใช้
+
 ├── Model/ # เก็บไฟล์โมเดลและผลประเมิน
+
 │ ├── complaint_model.pkl # โมเดล ML ที่เทรนแล้ว
+
 │ ├── metrics.txt # รายงานผลการประเมินโมเดล
+
 │ └── train.py # สคริปต์เทรนโมเดล
+
 ├── venv/ # ไฟล์และโฟลเดอร์ของ virtual environment (Python)
+
 ├── app.py # โค้ดเว็บแอป Streamlit สำหรับทำนายและรับ feedback
+
 ├── complaint_model.pkl # (สำรอง) โมเดล ML สำหรับใช้งาน
+
 ├── README.md # คำอธิบายโปรเจกต์และวิธีใช้งาน
+
 ├── requirements.txt # ไลบรารีที่ต้องติดตั้งสำหรับโปรเจกต์
+
 ├── rows.csv # Dataset ดิบสำหรับเทรนโมเดล (ข้อมูลคำร้องเรียน)
+
 └── tfidf_vectorizer.pkl # ตัวแปลงข้อความเป็นเวกเตอร์สำหรับโมเดล
 
 ## 🔗 แหล่งข้อมูลอ้างอิง
