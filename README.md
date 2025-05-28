@@ -70,4 +70,23 @@ streamlit run app.py
 * scikit-learn
 * joblib
 
+## Data set ที่ใช้💐
+
+
+*https://www.kaggle.com/datasets/selener/consumer-complaint-database
+
+## 🔗 แหล่งข้อมูลอ้างอิง
+
+
+*[Consumer Complaint Database - U.S. Consumer Financial Protection Bureau (CFPB)]
+https://www.consumerfinance.gov/data-research/consumer-complaints/
+*[Kaggle: Consumer Complaint Database Dataset (by selener)]
+https://www.kaggle.com/datasets/selener/consumer-complaint-database
+*[Googletrans (Python library)]
+https://github.com/ssut/py-googletrans
+*[Streamlit Documentation]
+https://docs.streamlit.io/
+*[scikit-learn: Machine Learning in Python]
+https://scikit-learn.org/
+
 
