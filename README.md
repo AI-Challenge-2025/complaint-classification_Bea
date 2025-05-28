@@ -90,12 +90,14 @@ complaint-classification/
 ## 🪸ตัวแปรที่ต้องติดตั้ง
 
 * Python 3.x
+* Pandas
+* Numpy
 * Streamlit
 * scikit-learn
 * joblib
+* googletrans
 
 ## Data set ที่ใช้💐
-
 
 * https://www.kaggle.com/datasets/selener/consumer-complaint-database
 
