@@ -31,7 +31,7 @@
 1. โคลนโปรเจกต์นี้:
 
 ```bash
-git clone [https://github.com/AI-Challenge-2025/complaint-classification_Bea.git]
+git clone https://github.com/AI-Challenge-2025/complaint-classification_Bea.git
 cd complaint-classification
 ````
 
